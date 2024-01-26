@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis Natanaël</h1>
 <h3 align="center">Un étudiant passionné par l'informatique.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
