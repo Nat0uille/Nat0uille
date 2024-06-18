@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/Natanaelaut">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanaelaut&show_icons=true&theme=transparent&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=natanaelaut&show_icons=true&theme=transparent&count_private=true&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelaut&layout=compact&theme=transparent"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NatanaelAut&theme=transparent&utcOffset=2"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natanaelaut&theme=transparent"/>
