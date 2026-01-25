@@ -1,7 +1,10 @@
-<h1>💫 Nat0uille</h1>
-<h2>🔎A propos de moi</h2>
-<p>Je suis Natanaël<br>
-et je dev voila</p>
-
-<h3>🧠Mes compétences de gros nerd que je sais utiliser</h3>
-<img src="https://skillicons.dev/icons?i=cpp,cloudflare,css,docker,flask,git,gradle,html,idea,java,js,mysql,nginx,py,redis,sqlite,vscode,windows&perline=9"/>
+<h1>Hi 👋, I'm Natanaël</h1>
+<img src="https://i.imgur.com/3AsuEfL.png"/>
+<h3>🔎About me:</h3>
+<p>I develop minecraft plugins</p>
+<h3>🧠Somes skills:</h3>
+<img src="https://skillicons.dev/icons?i=arduino,docker,flask,git,gradle,java,js,mysql,py"/>
+<h3>🌱I develop with:</h3>
+<img src="https://skillicons.dev/icons?i=vscode,idea"/>
+<h3>📊Statistics (since nov 24 2025)</h3>
+<img align="center" src="https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=@Nat0uille&theme=transparent&layout=compact&hide=AUTO_DETECTED&display_format=percent%22"/>
