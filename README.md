@@ -3,6 +3,6 @@
 <h3>🔎About me:</h3>
 <p>I develop minecraft plugins</p>
 <h3>🧠Somes skills:</h3>
-<img src="https://skillicons.dev/icons?i=arduino,docker,flask,git,gradle,java,js,mysql,py"/>
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,git,go,gradle,java,js,mysql,py,redis"/>
 <h3>🌱I develop with:</h3>
-<img src="https://skillicons.dev/icons?i=vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=debian,idea,rider,vscode,windows"/>
